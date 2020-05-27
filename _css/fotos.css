@@ -16,19 +16,19 @@ ul#album li{
 }
 
 ul#album li#foto1{
-    background: url('../_imagem/foto2.jpeg') no-repeat;
+    background: url('../imagem/foto2.jpeg') no-repeat;
     background-position: 50% 20%;
     background-size: 1158px 869PX;
 }
 
 ul#album li#foto2{
-    background: url('../_imagem/foto1.jpg');
+    background: url('../imagem/foto1.jpg');
     background-position: 50% 50%;
     background-size: 960px 720px;
 }
 
 ul#album li#foto3{
-    background: url('../_imagem/foto3.jpeg');
+    background: url('../imagem/foto3.jpeg');
     background-position: 20% 20%;
     background-size: 1080px 812px;
 }
